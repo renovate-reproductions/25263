@@ -3,7 +3,8 @@
     {
       "registryUrls": ["https://ghcr.io"],
       "packageNames": ["seanconroy2021/golden-container"],
-      "allowedVersions": "snapshot"
+      "allowedVersions": "snapshot",
+      "versioning": "loose"
     }
   ]
 }
